@@ -3,8 +3,8 @@
 - 🔭 **Currently working on:** **Agentic AI** using the **BMAD method** to create autonomous task agents, and developing interactive courseware with **LiaScript** & **VS Code**.
 - 🤝 **I’m looking to collaborate on:**
     - Quantitative Research & Data-Driven Decision Making.
-    - Data Projects using **R, SQL, SPSS**, and visualization in **Tableau** or **Power BI**.
-    - Digital Marketing Research (GA4, Looker Studio, Meta Business Suite, Shopify Analytics).
+    - Data Projects using **R, SQL, SPSS** and visualization in **Tableau** or **Power BI**.
+    - Digital Marketing Research (GA4, Looker Studio, Meta Business Suite, Shopify Analytics etc).
 - 💼 **Open to:** Part-time projects and freelance tasks aligning with data science and marketing analytics.
 
 ---
