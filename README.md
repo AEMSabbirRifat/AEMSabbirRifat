@@ -5,7 +5,7 @@
     - Quantitative Research & Data-Driven Decision Making.
     - Data Projects using **R, SQL, SPSS** and visualization in **Tableau** or **Power BI**.
     - Digital Marketing Research (GA4, Looker Studio, Meta Business Suite, Shopify Analytics etc).
-- 💼 **Open to:** Part-time projects and freelance tasks aligning with data analytics.
+- 💼 **Open to:** projects and tasks aligning with data analytics.
 
 ---
 
