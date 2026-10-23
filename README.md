@@ -1,52 +1,82 @@
-# 💫 I am a **Quantitative Researcher** and **Data Analyst** passionate about bridging the gap between statistical rigor and actionable business intelligence.
+# Hi, I'm Sabbir Rifat 👋
 
-- 🔭 **Currently working on:** **Agentic AI** using the **BMAD method** to create autonomous task agents, and developing interactive courseware with **LiaScript** & **VS Code**.
-- 🤝 **I’m looking to collaborate on:**
-    - Quantitative Research & Data-Driven Decision Making.
-    - Data Projects using **R, SQL, SPSS** and visualization in **Tableau** or **Power BI**.
-    - Digital Marketing Research (GA4, Looker Studio, Meta Business Suite, Shopify Analytics etc).
-- 💼 **Open to:** projects and tasks aligning with data analytics.
+### Marketing & Business Analyst · Quantitative Researcher · Agentic-AI Builder
+**I turn messy data into decisions, and repetitive work into automated workflows.**
 
----
+📍 Magdeburg, Germany (open to relocation) · 🎓 M.Sc. International Marketing, Management & Entrepreneurship (OVGU, 2026) · 🗣️ English (C2) · German (B2) · Bengali (native)
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aemsabbirrifat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-scaleupwithsabbir.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://scaleupwithsabbir.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aemsabbirrifat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aemsabbirrifat)
+[![Email](https://img.shields.io/badge/Email-a.e.m.sabbirrifat%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.e.m.sabbirrifat@gmail.com)
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💡 What I bring
 
-### 📊 Data Science & Research
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SPSS](https://img.shields.io/badge/SPSS-003399?style=for-the-badge&logo=ibm&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+I combine three things that rarely sit in one person:
 
-### 📈 Business Intelligence & Visualization
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+- **Commercial experience**: B2B territory sales at **Unilever** (11 distribution points, 3,192 retail outlets, $150K–250K monthly revenue, 14–17% monthly SKU distribution growth) and business development at **M.M. Ispahani**.
+- **Analytics depth**: GA4 migration, GTM-based multi-touch attribution and automated Looker Studio dashboards at **Brain Feed Ltd. (UK)**, which cut reporting time by **70%**; SQL funnel analysis to lower CAC.
+- **Research rigour**: Research Assistant in Quantitative Methods at **Otto von Guericke University Magdeburg**, where I co-teach R-based statistics and design interactive courses. Author of an SSRN working paper on remote work and well-being (N = 148).
 
-### 🤖 AI, Development & Cloud
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![LiaScript](https://img.shields.io/badge/LiaScript-black?style=for-the-badge&logo=markdown&logoColor=white)
-![BMAD Method](https://img.shields.io/badge/Method-BMAD-red?style=for-the-badge)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+On top of that, I build **agentic-AI and automation workflows** (LLM pipelines, GitHub Actions, n8n, Playwright) that do the boring parts for you.
 
-### 🚀 Digital Marketing & Analytics
-![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google%20ads&logoColor=white)
-![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google&logoColor=white)
-![Google My Business](https://img.shields.io/badge/Google%20My%20Business-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Meta Business Suite](https://img.shields.io/badge/Meta_Business-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![Amazon Analytics](https://img.shields.io/badge/Amazon_Analytics-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
-![Shopify Analytics](https://img.shields.io/badge/Shopify_Analytics-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## 🤝 How I can help you
+
+| If you are… | I can help with… |
+|---|---|
+| **A recruiter / hiring manager** | Marketing & performance analytics, business/data analyst, growth or market-research roles where you need someone who understands both the numbers and the customer. |
+| **A startup** | Go-to-market and market-entry research, competitor benchmarking, KPI dashboards, lead-flow automation into your CRM. |
+| **An SME** | Turning spreadsheets and GA4 data into clear dashboards, automating manual reporting, and setting up tracking (GA4/GTM) you can actually trust. |
+| **An education / training team** | Interactive, open courses (LiaScript) with quizzes, R code and automated PDF/SCORM export for Moodle and ILIAS. |
+
+## 📂 Featured work
+
+| Project | What it shows |
+|---|---|
+| 📈 [**PraxisConcierge Growth Case Study**](https://github.com/AEMSabbirRifat/PraxisConcierge) | Lead-to-CRM automation design (Make.com + OpenAI + HubSpot), partner prioritisation of the top 20 German practice-software vendors from KBV data, and a competitor benchmark with three growth tactics. |
+| 📊 [**Quantitative Research Methods (QuRM) course**](https://github.com/AEMSabbirRifat/QuRM-WiSe2024-25) | Seven interactive lessons I co-authored and taught: research design, sampling, survey design, t-tests, ANOVA, correlation and regression in R. |
+| ⚙️ [**LiaScript export pipeline**](https://github.com/AEMSabbirRifat/automation-test-1) | A GitHub Actions workflow that turns a Markdown course into a PDF handout and a Moodle-ready SCORM package with one click. Also in [automation-test-2](https://github.com/AEMSabbirRifat/automation-test-2) and [Practice-Course](https://github.com/AEMSabbirRifat/Practice-Course). |
+| 🌍 [**UNESCO-UNEVOC ASSET presentations**](https://github.com/AEMSabbirRifat/UNESCO-asset) | Presentation-as-code for the AI-supported educator-training project of the UNESCO-UNEVOC Centre Magdeburg (GIZ · OVGU · Fraunhofer IFF). |
+| 🤖 [**AI in education workshops**](https://github.com/AEMSabbirRifat/Additional-Liascript-courses) | Workshop material on co-designing assessments with ChatGPT/Claude and using AI in doctoral education. |
+
+I also contribute to the courses of the **[OVGU-VET-TechEd](https://github.com/OVGU-VET-TechEd)** team (AI agents with the BMAD method, AI-basics learning nuggets, Quantitative Methods with R). My forks of those repositories are listed under *Repositories*.
+
+## 🛠️ Toolbox
+
+**Analytics & research**
+![Google Analytics 4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Automation & AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![BMAD Method](https://img.shields.io/badge/Agents-BMAD_Method-C0392B?style=flat-square)
+![LiaScript](https://img.shields.io/badge/LiaScript-000000?style=flat-square&logo=markdown&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Marketing platforms**
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
+![Meta Business Suite](https://img.shields.io/badge/Meta_Business-0668E1?style=flat-square&logo=meta&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify_Analytics-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+## 🌍 International experience
+
+🇩🇪 Germany (OVGU, research & teaching) · 🇬🇧 UK (Brain Feed, remote analytics) · 🇪🇸 Spain (Qi Europe, European market-entry research across 5+ markets) · 🇮🇹 Italy · 🇵🇱 Poland · 🇱🇹 Lithuania (international business challenges and Erasmus+ projects) · 🇧🇩 Bangladesh (Unilever, M.M. Ispahani)
 
 ---
 
+### 📬 Let's talk
+
+Hiring for an analytics, marketing or growth role? Need a dashboard, a market-entry study or an automation for your team?
+**Email me at [a.e.m.sabbirrifat@gmail.com](mailto:a.e.m.sabbirrifat@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/aemsabbirrifat)**.
