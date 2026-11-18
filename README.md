@@ -1,6 +1,6 @@
 # Hi, I'm Sabbir Rifat 👋
 
-### Marketing & Business Analyst · Quantitative Researcher · Agentic-AI Builder
+### Performance Marketing & Business Analyst · Quantitative Researcher · Agentic-AI Builder
 **I turn messy data into decisions, and repetitive work into automated workflows.**
 
 📍 Magdeburg, Germany (open to relocation) · 🎓 M.Sc. International Marketing, Management & Entrepreneurship (OVGU, 2026) · 🗣️ English (C2) · German (B2) · Bengali (native)
